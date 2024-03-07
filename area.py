@@ -11,5 +11,8 @@ def circle_area(radius):
     return math.pi * radius**2
 
 def triangle_area(base, height):
-    if base < 0 or height < 0: raise ValueError('Base and height must be positive numbers, asdfølkjasdølfkajsdfølksjadfasølkjsk')
+    if base < 0 or height < 0: 
+        raise ValueError('Base and height must be positive numbers')
     return 0.5 * base * height
+
+def
