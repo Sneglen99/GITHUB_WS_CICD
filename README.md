@@ -1,3 +1,5 @@
+[![Python application](https://github.com/Sneglen99/GITHUB_WS_CICD/actions/workflows/python-app.yml/badge.svg)](https://github.com/Sneglen99/GITHUB_WS_CICD/actions/workflows/python-app.yml)
+
 # GIT WORKSHOP
 
 ## Introduksjon
