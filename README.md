@@ -1,5 +1,7 @@
 [![Python application](https://github.com/Sneglen99/GITHUB_WS_CICD/actions/workflows/python-app.yml/badge.svg)](https://github.com/Sneglen99/GITHUB_WS_CICD/actions/workflows/python-app.yml)
 
+[![HTML Validation](https://github.com/Sneglen99/GITHUB_WS_CICD/actions/workflows/html_validation_eller_ett_eller_annet.yml/badge.svg)](https://github.com/Sneglen99/GITHUB_WS_CICD/actions/workflows/html_validation_eller_ett_eller_annet.yml)
+
 # GIT WORKSHOP
 
 ## Introduksjon
